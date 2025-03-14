@@ -1,5 +1,6 @@
 import Card from "./Card";
 
+import "./index.css";
 function App() {
   return (
     <main>
