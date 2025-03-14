@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function Count({ number, size }) {
-  return <p>{number}</p>;
+export default function Count() {
+  return <p>0</p>;
 }
